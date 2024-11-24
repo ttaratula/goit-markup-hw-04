@@ -455,6 +455,9 @@ border-top: none;
   display: flex;
 }
 
+.footer-div{
+ 
+}
 .footer-team-link{
   display: flex;
   align-items: center;
