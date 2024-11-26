@@ -313,7 +313,7 @@ width: 1px;
   font-weight: 400;
 }
 
-.team-media{
+team-media{
  display: flex;
  margin: 8px 16px 32px;
  
@@ -505,6 +505,7 @@ border-top: none;
 .footer-div{
  margin-right: 120px
 }
+
 .footer-team-link{
   display: flex;
   align-items: center;
@@ -524,4 +525,8 @@ border-top: none;
 
 .team-footer-icons{
   fill: #f4f4fd;
+}
+
+.team-icons{
+  width: 24px;
 }
