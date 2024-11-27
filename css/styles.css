@@ -302,6 +302,7 @@ width: 1px;
   font-size: 20px;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
   
   
 }
@@ -312,13 +313,6 @@ width: 1px;
   color: #434455;
   font-weight: 400;
   margin-bottom: 8px;
-}
-
-team-media{
- display: flex;
- margin: 8px 16px 32px;
- 
- 
 }
 
 
